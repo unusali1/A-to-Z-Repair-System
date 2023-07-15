@@ -1,0 +1,12 @@
+.map-section{
+    display:flex;
+    flex-direction: flex-col;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.map-style{
+    height: 235px;
+    width: 500px;
+}
